@@ -1,3 +1,12 @@
+Clarifai Keyword for Magento
+=================================
+Hot Reload with express
+- npm run-script dev
+
+Query param
+- url: img URL
+- magento: magento API to call with keywords
+
 Express & ES6 REST API Boilerplate
 ==================================
 
@@ -52,7 +61,6 @@ docker run -p 8080:8080 es6/api-service
 #          machine port   
 
 ```
-
 License
 -------
 
